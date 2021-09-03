@@ -1,0 +1,68 @@
+/*===================================*/
+.input-field{
+	border: 6px groove black;
+	width: 45% no-repeat;
+	padding: .5em 2em 2em 2em;
+	margin:1em 2em 2em 1em;
+	float: left;
+}
+.input-field2{
+	border: 6px groove black;
+	width: 45% no-repeat;
+	padding: .5em 2em 2em 2em;
+	margin:1em 2em 2em 1em;
+	float: left;
+}
+.letras{
+		
+    	margin-top: 20px;
+	}
+.relative
+    {	
+    	max-width: :600px;
+    	max-height: 420px;
+      position: relative;
+      top: 0;
+      left: 0;
+      z-index: 1;
+    }
+.absolute
+    {
+	  width:150px; 
+	  height:150px;
+      position: absolute;
+      float-left: 50px;
+      z-index: 2; 
+    }
+
+.absolute2
+    {
+	  width:150px; 
+	  height:150px;
+      position: absolute;
+      float-left: 50px;
+      z-index: 2;
+    }
+.qr-field{
+	border: 0px groove cornflowerblue;
+	width: 420px;
+	height:200px;
+}
+.gabarito-field{
+	border:0px solid black; 
+	width:45%; 
+	height:100%;
+}
+.myoutput	{
+	border: 3px groove green;
+	border-radius: 10px;
+	margin:7em 5em 0em 5em;
+}
+h3{
+	text-align:left;
+}
+
+@media print
+{
+.form {display:none;}
+}
