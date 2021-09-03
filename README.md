@@ -23,3 +23,4 @@ Output example:
 
 ![image](https://user-images.githubusercontent.com/62676471/132066172-43e1fba4-6797-4564-8264-0140c653251f.png)
 
+The answer sheet can be generated check folder qr, simply reads a database and print info.
