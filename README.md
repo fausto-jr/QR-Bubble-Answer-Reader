@@ -14,6 +14,8 @@ Save to a csv file.
 
 Scaned Page example:
 ![image](https://user-images.githubusercontent.com/62676471/132066113-1e790a80-67f7-4d15-b838-2e14dfdfddf2.png)
+
+
 Output example:
 ![image](https://user-images.githubusercontent.com/62676471/132066172-43e1fba4-6797-4564-8264-0140c653251f.png)
 
